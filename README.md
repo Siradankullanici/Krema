@@ -1,2 +1,0 @@
-# Krema
- Krema virüsü

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krema", "Krema\Krema.csproj", "{2D0F8691-E5E0-48CF-B9D5-FD581B32B61B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krema", "Krema\Krema.csproj", "{B0DB7E14-E1A6-407C-8FB2-2C72F5236B6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2D0F8691-E5E0-48CF-B9D5-FD581B32B61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D0F8691-E5E0-48CF-B9D5-FD581B32B61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D0F8691-E5E0-48CF-B9D5-FD581B32B61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D0F8691-E5E0-48CF-B9D5-FD581B32B61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DB7E14-E1A6-407C-8FB2-2C72F5236B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DB7E14-E1A6-407C-8FB2-2C72F5236B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DB7E14-E1A6-407C-8FB2-2C72F5236B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DB7E14-E1A6-407C-8FB2-2C72F5236B6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5859A4C3-256B-4331-A8B8-7D9559020380}
+		SolutionGuid = {C1EBF657-699B-4410-8DD9-CAC6B2EB898E}
 	EndGlobalSection
 EndGlobal
