@@ -1,4 +1,3 @@
-- Turkish: 
 # Krema
 Krema virüsü
 Windows 98 versiyonu Windows 98 ile uyumludur
